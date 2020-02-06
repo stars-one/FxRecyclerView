@@ -45,7 +45,11 @@ class MainViewZH : View("Hello TornadoFX") {
                     rv.update(Person("更新后","34"),5)
                 }
             }
-
+            button("更新名字为张三9的子项"){
+                action {
+                    rv.update(Person("更新后10","34"),Person("张三9",27.toString()))
+                }
+            }
         }
         this+=rv
 

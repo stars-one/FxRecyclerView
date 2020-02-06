@@ -4,7 +4,6 @@ import javafx.scene.control.ScrollPane
 import javafx.scene.input.MouseButton
 import javafx.scene.layout.VBox
 import tornadofx.*
-import kotlin.collections.ArrayList
 
 /**
  *
@@ -82,12 +81,23 @@ class FxRecyclerView<beanT : Any, itemViewT : View> : View {
         }
     }
 
+    /**
+     * 添加一个列表的数据(arraylist)
+     */
     fun addList(beanList: ArrayList<beanT>) {
         for (bean in beanList) {
             add(bean)
         }
     }
 
+    /**
+     * 添加一个列表的数据(list)
+     */
+    fun addList(beanList: List<beanT>) {
+        for (bean in beanList) {
+            add(bean)
+        }
+    }
     fun add(bean: beanT) {
         val beanList = adapter?.beanList
         val itemViewList = adapter?.itemViewList

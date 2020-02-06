@@ -123,11 +123,15 @@ PS：以下的方法都是rv调用（FxRecyclerView对象）
 |setWidth(double)				|			|			|
 |setHegiht(double)				|			|			|
 |setisShowVerticalbar(String)	|			|			|
-|								|			|			|
-|								|			|			|
-|								|			|			|
-|								|			|			|
-|								|			|			|
+|addList(arraylist)				|			|			|
+|addList(list)					|			|			|
+|add(beanT)						|			|			|
+|add(bean,position)				|			|			|
+|update(bean,int)				|			|			|
+|update(bean,oldBean)			|			|			|
+|remove(bean)					|			|			|
+|remove(index)					|			|			|
+|removeAll()					|			|			|
 
 ### 添加新数据
 rv.add(bean)
