@@ -1,4 +1,6 @@
 # FxRecyclerView
+[中文文档](https://github.com/Stars-One/FxRecyclerView/blob/master/readme_zh.md)
+
 a custom view for tornadofx to accomplish list view of many tasks,is based on scroll pane
 
 I copy the idea of RecyclerView which is in Android,so call it FxRecyclerView
