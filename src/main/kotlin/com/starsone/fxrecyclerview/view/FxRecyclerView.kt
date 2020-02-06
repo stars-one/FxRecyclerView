@@ -73,7 +73,7 @@ class FxRecyclerView<beanT : Any, itemViewT : View> : View {
      * 设置水平滚动条的显示方式
      * @param way 显示方式，never(不显示） always（一直显示） asneed（自动根据需要显示）
      */
-    fun setIsShowVerticalBar(way: String) {
+    fun setIsShowHorizontalBar(way: String) {
         when (way) {
             "never" -> root.hbarPolicy = ScrollPane.ScrollBarPolicy.NEVER
             "always" -> root.hbarPolicy = ScrollPane.ScrollBarPolicy.ALWAYS
