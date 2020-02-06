@@ -1,6 +1,8 @@
 # FxRecyclerView
 [中文文档](https://github.com/Stars-One/FxRecyclerView/blob/master/readme_zh.md)
 
+[Github](https://github.com/Stars-One/FxRecyclerView)
+
 a custom view for tornadofx to accomplish list view of many tasks,is based on scroll pane
 
 I copy the idea of RecyclerView which is in Android,so call it FxRecyclerView
@@ -29,7 +31,7 @@ Here,some gif picture can show you what can it do.
 ### 6.remove assigned index data/remove all data
 ![](https://img2018.cnblogs.com/blog/1210268/202002/1210268-20200206161928105-166984812.gif)
  
-[demo(is a jar)](https://github.com/Stars-One/FxRecyclerView/blob/master/out/artifacts/FxRecyclerView_jar/FxRecyclerView.jar)
+[download demo(a jar file)](https://github.com/Stars-One/FxRecyclerView/blob/master/out/artifacts/FxRecyclerView_jar/FxRecyclerView.jar)
 
 ## How to use?
 ### 1.download the file

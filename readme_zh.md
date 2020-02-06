@@ -19,17 +19,17 @@ tornadofx中动态添加控件的步骤虽然比javafx中要简单，但是，�
 
 ## 功能演示
 上波gif动态图就能很好说明了
-### 1.add a group of data
+### 1.添加一组数据
 ![](https://img2018.cnblogs.com/blog/1210268/202002/1210268-20200206161808594-821208198.gif)
-### 2.add a data
+### 2.添加一个数据
 ![](https://img2018.cnblogs.com/blog/1210268/202002/1210268-20200206161825000-1182546987.gif)
-### 3.insert data in assigned index
+### 3.指定坐标插入一个数据
 ![](https://img2018.cnblogs.com/blog/1210268/202002/1210268-20200206161858477-734686857.gif)
-### 4.update assigned index data
+### 4.更新指定坐标的数据
 ![](https://img2018.cnblogs.com/blog/1210268/202002/1210268-20200206161837422-1892258410.gif)
-### 5.onclick/right onclick event bind quickly
+### 5.单击/右击事件
 ![](https://img2018.cnblogs.com/blog/1210268/202002/1210268-20200206161915734-777138313.gif)
-### 6.remove assigned index data/remove all data
+### 6.移出指定坐标数据/移出所有数据
 ![](https://img2018.cnblogs.com/blog/1210268/202002/1210268-20200206161928105-166984812.gif)
 
 [测试的jar包](https://github.com/Stars-One/FxRecyclerView/blob/master/out/artifacts/FxRecyclerView_jar/FxRecyclerView.jar) 
