@@ -1,4 +1,9 @@
 # FxRecyclerView
+
+
+使用文档仅供参考,项目已过时,已迁移到[common-control](https://github.com/stars-one/common-controls)仓库!!
+---
+
 [中文文档](https://github.com/Stars-One/FxRecyclerView/blob/master/readme_zh.md)
 
 [Github](https://github.com/Stars-One/FxRecyclerView)
